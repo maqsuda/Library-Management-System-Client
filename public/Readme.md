@@ -26,6 +26,8 @@
     4. npx tailwindcss init -p
     5. npm i -D daisyui@latest
     6. npm install react-icons --save
-    7. 
+    7. npm install swiper
     8. npm install react-responsive-carousel --save
+    9. npm install react-icons --save
+
    
